@@ -1,0 +1,15 @@
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\bin\Debug\clnParcial2Dioai.dll.config
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\bin\Debug\clnParcial2Dioai.dll
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\bin\Debug\clnParcial2Dioai.pdb
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\bin\Debug\CadParcial2Dioai.dll
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\bin\Debug\EntityFramework.dll
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\bin\Debug\CadParcial2Dioai.pdb
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\bin\Debug\CadParcial2Dioai.dll.config
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\bin\Debug\EntityFramework.xml
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\obj\Debug\clnParcial2Dioai.csproj.AssemblyReference.cache
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\obj\Debug\clnParcial2Dioai.csproj.CoreCompileInputs.cache
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\obj\Debug\clnParci.5242118D.Up2Date
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\obj\Debug\clnParcial2Dioai.dll
+C:\Users\hp victus\Desktop\Parcial2Dioai\Parcial2Dioai\clnParcial2Dioai\obj\Debug\clnParcial2Dioai.pdb
